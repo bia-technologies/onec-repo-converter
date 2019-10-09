@@ -8,7 +8,8 @@
 * склонировать репозиторий или
 * распаковать в нужный каталог архив репозитория
 * для Windows запустить [installlocalhost.bat](/installlocalhost.bat)
-* для Linux запустить [installlocalhost.sh](/installlocalhost.sh)
+
+**На данный момент работает только в OS Windows, т.к. используется PowerShell**
 
 ## Использование
 
